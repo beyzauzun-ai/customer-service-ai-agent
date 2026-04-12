@@ -64,12 +64,14 @@ This project was developed as part of an AI learning journey to gain hands-on ex
 Evaluation pipelines
 Real-world AI applications
 
-##📌 Future Improvements
+## 📌 Future Improvements
 Add UI interface
 Improve response accuracy
 Integrate with real APIs
 Deploy as a web service
-👩‍💻 Author
+
+### 👩‍💻 Author
 
 Beyza Uzun
+
 AI & Data Enthusiast
