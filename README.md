@@ -2,7 +2,22 @@
 
 This project is an AI-powered customer service agent built using Google ADK, designed to simulate and evaluate customer interactions automatically.
 
+## 📸 Demo
+
+![Agent UI](your-image-link-here)
+
 ---
+
+## 📊 Evaluation Results
+
+- ✅ All test scenarios passed
+- 🎯 Tool usage accuracy: 1.0
+- 📈 Response match score: ~0.55 - 0.66
+
+## Example:
+Overall Eval Status: PASSED
+tool_trajectory_avg_score: 1.0
+response_match_score: 0.66
 
 ## 🚀 Project Overview
 
