@@ -4,7 +4,7 @@ This project is an AI-powered customer service agent built using Google ADK, des
 
 ## 📸 Demo
 
-![Agent UI](AgentUI.png)
+<img src="AgentUI.png" width="800"/>
 
 ---
 
@@ -15,8 +15,11 @@ This project is an AI-powered customer service agent built using Google ADK, des
 - 📈 Response match score: ~0.55 - 0.66
 
 ## Example:
+
 Overall Eval Status: PASSED
+
 tool_trajectory_avg_score: 1.0
+
 response_match_score: 0.66
 
 ## 🚀 Project Overview
