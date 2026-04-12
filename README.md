@@ -33,7 +33,7 @@ The system acts as an intelligent customer support assistant that:
 ---
 
 ## 📊 Evaluation Pipeline
-
+```bash
 customer_service_agent/
 ├── main.py
 ├── eval/
@@ -41,7 +41,7 @@ customer_service_agent/
 ├── .env
 ├── README.md
 
-
+```
 ---
 
 ## ▶️ How to Run
