@@ -4,7 +4,7 @@ This project is an AI-powered customer service agent built using Google ADK, des
 
 ## 📸 Demo
 
-![Agent UI](Agent UI.png)
+![Agent UI](AgentUI.png)
 
 ---
 
