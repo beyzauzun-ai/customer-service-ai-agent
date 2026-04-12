@@ -1,11 +1,11 @@
 .env
 .venv
 *.lock
-__pycache__/
+_pycache_/
 *.pyc
 .DS_Store
 *.db
 .adk/
 */.adk/
 eval_history/
-*.evalset.json
+customer_service_agent/.adk/
