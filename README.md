@@ -56,7 +56,7 @@ cd customer-service-ai-agent
 ### ⛓️‍💥 Install dependencies:
 pip install -r requirements.txt
 
-🎯 Purpose
+### 🎯 Purpose
 
 This project was developed as part of an AI learning journey to gain hands-on experience in:
 
