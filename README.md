@@ -10,6 +10,13 @@ An end-to-end AI customer service project that combines:
 - Streamlit App: https://customer-service-ai-agent.streamlit.app
 - Live API: https://customer-service-ai-agent-264345805986.europe-west1.run.app
 
+## 📸 Demo
+
+Built an AI-powered customer service agent capable of handling real-world scenarios such as order tracking, refunds, and product inquiries with automated evaluation.
+
+<img src="AgentUI.png" width="800"/>
+
+
 ## 💡 Project Overview
 
 This project simulates real-world customer service scenarios such as:
@@ -19,11 +26,6 @@ This project simulates real-world customer service scenarios such as:
 - product-related questions
 
 The project started as an evaluation-focused AI agent workflow and was later extended with a FastAPI backend and a Streamlit UI for live deployment.
-## 📸 Demo
-
-Built an AI-powered customer service agent capable of handling real-world scenarios such as order tracking, refunds, and product inquiries with automated evaluation.
-
-<img src="AgentUI.png" width="800"/>
 
 
 ## 🧪 Evaluation Pipeline
@@ -34,7 +36,6 @@ It measures:
 - response quality
 - scenario success rate
 
-## 📊 Evaluation Pipeline
 ```bash
 customer_service_agent/
 ├── main.py
@@ -45,13 +46,13 @@ customer_service_agent/
 
 ```
 
-### Evaluation Results
+## 📊 Evaluation Results
 
 - ✅ All test scenarios passed
 - ✅ tool_trajectory_avg_score: 1.0
 - ✅ response_match_score: ~0.55–0.66
 
-This helped validate whether the agent not only responds, but responds in a reliable and testable way.
+These results validate that the agent performs reliably across different customer service scenarios.
 
 ## 🖥️ Live Application Layer
 
