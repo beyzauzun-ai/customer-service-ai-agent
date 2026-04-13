@@ -2,6 +2,10 @@
 
 This project is an AI-powered customer service agent built using Google ADK, designed to simulate and evaluate customer interactions automatically.
 
+## Live Demo
+
+[Open the deployed app](https://customer-service-ai-agent-264345805986.europe-west1.run.app)
+
 ## 📸 Demo
 
 Built an AI-powered customer service agent capable of handling real-world scenarios such as order tracking, refunds, and product inquiries with automated evaluation.
