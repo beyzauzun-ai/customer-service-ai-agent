@@ -1,23 +1,22 @@
 # 🤖 AI Customer Service Agent with Evaluation Pipeline
 
-This project is an AI-powered customer service agent built using Google ADK, designed to simulate and evaluate customer interactions automatically.
+An end-to-end AI customer service project that combines:
+- an intelligent support agent
+- an automated evaluation pipeline
+- a live web interface for public demo
 
-## 🌐 Live API Demo
+## 🚀 Live Demo
+- Streamlit App: https://customer-service-ai-agent.streamlit.app
+- Live API: https://customer-service-ai-agent-264345805986.europe-west1.run.app
 
-The application is deployed on Google Cloud Run and exposes a live API endpoint.
+## 💡 Project Overview
+This project simulates real-world customer service scenarios such as:
+- refunds
+- order tracking
+- damaged product complaints
+- product-related questions
 
-🔗 *API Endpoint:*  
-https://customer-service-ai-agent-264345805986.europe-west1.run.app
-
-### Example Response
-
-When you open the link in a browser, you should see:
-
-```json
-{
-  "message": "Customer Service Agent is running 🚀"
-}
-```
+The project started as an evaluation-focused AI agent workflow and was later extended with a FastAPI backend and a Streamlit UI for live deployment.
 ## 📸 Demo
 
 Built an AI-powered customer service agent capable of handling real-world scenarios such as order tracking, refunds, and product inquiries with automated evaluation.
