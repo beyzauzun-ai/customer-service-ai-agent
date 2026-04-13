@@ -125,12 +125,6 @@ python3 -m uvicorn main:app --host 0.0.0.0 --port 8080
 streamlit run app_ui.py
 ```
 
- ### Open in browser
- 
- ```bash
-http://localhost:8501
-```
-
 ### 🎯 Purpose
 
 This project was developed to build and evaluate an AI-powered customer service agent that can handle real-world support scenarios.
