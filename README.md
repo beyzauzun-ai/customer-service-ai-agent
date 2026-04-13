@@ -54,12 +54,14 @@ customer_service_agent/
 
 These results validate that the agent performs reliably across different customer service scenarios.
 
+
 ## 🖥️ Live Application Layer
 
 To make the project interactive and publicly accessible, I added:
 - a FastAPI backend for handling chat requests
 - a Streamlit frontend for user interaction
 - public deployment for real-time demo access
+
 
 ## 🧠 What I Learned
 
@@ -72,6 +74,7 @@ Through this project, I gained hands-on experience in:
 - deploying a public AI application
 - improving UX with quick action buttons
 
+
 ## 🔧 Tech Stack
 
 - Python
@@ -82,9 +85,11 @@ Through this project, I gained hands-on experience in:
 - Google Gemini API
 - Git & GitHub
 
+
 ## 🏗️ Architecture
 
 User → Streamlit UI → FastAPI Backend → AI Logic / Evaluation-informed Agent Design → Response
+
 
 ## ✨ Features
 
@@ -99,13 +104,13 @@ User → Streamlit UI → FastAPI Backend → AI Logic / Evaluation-informed Age
 
 ## ▶️ How to Run
 
-### 1. Clone the repository
+### Clone the repository
 ```bash
 git clone https://github.com/beyzauzun-ai/customer-service-ai-agent.git
 cd customer-service-ai-agent
 ```
 
-### ⛓️‍💥 Install dependencies:
+###  Install dependencies:
 pip install -r requirements.txt
 
 ### Run FastAPI backend
@@ -113,6 +118,7 @@ pip install -r requirements.txt
  ```bash
 python3 -m uvicorn main:app --host 0.0.0.0 --port 8080
 ```
+
 ### Run Streamlit UI
 
  ```bash
@@ -135,15 +141,6 @@ The goal was to:
 - deploy it as a real, user-facing application
 
 
-## 🧠 Learning Outcomes
-
-- AI agent design
-- Evaluation pipelines
-- Real-world AI applications
-- Backend–frontend integration
-- Deploying AI systems to production
-
-  
 ### 👩‍💻 Author
 
 Beyza Uzun
